@@ -1,6 +1,6 @@
 <div align="center">
 	<br>
-	<a href="https://raw.githubusercontent.com/mariyaas/mariyaas/main/assets/header.svg">
+	<a href="https://github.com/mariyaas/mariyaas/blob/main/assets/header.svg?short_path=93267b3">
 		<img src="header.svg" width="800" height="400">
 	</a>
 	<br>
