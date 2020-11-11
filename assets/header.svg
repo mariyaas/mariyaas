@@ -1,0 +1,33 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+
+			.hello {
+			  -webkit-background-clip: text;
+			  -webkit-text-fill-color: #fff;
+			  o-text-fill-color: #fff;
+			  -webkit-text-stroke: 0.09375rem #0d1b1e;
+			  -o-text-stroke: 0.09375rem #0d1b1e;
+			  color: #fff;
+			  letter-spacing: 6px;
+			  text-shadow: 5px 5px 0px #80ff9b;
+			}
+
+			/* For demo purpose only: background-color should match surrounding color for effect */
+			body {
+			  font-family: "Segoe UI";
+			  font-size: 40px;
+			  //background-color: #f2cee6;
+			}
+			.dot {
+			  font-size: 200%;
+			  color: #80ff9b;
+			  margin-left: -20px;
+			}
+
+			</style>
+			<h1><span class="hello">Hi</span> 👋! I'm Mariya <span class="dot">.</span></h1>
+		</div>
+	</foreignObject>
+</svg>
